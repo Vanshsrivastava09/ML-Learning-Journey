@@ -1,50 +1,76 @@
 # ML Learning Journey 🚀
 
-This repository documents my journey toward becoming an ML Engineer through practical implementation, projects, and real-world problem solving.
+This repository documents my journey toward becoming an ML Engineer through practical implementation, data analysis, machine learning workflows, and real-world projects.
+
+The goal of this repository is not just learning theory, but building practical engineering skills through coding, experimentation, visualization, preprocessing, and project development.
 
 ---
 
-# 📌 Goals
+# 🎯 Goals
 
-- Build strong ML foundations
-- Learn Machine Learning & Deep Learning
-- Build real-world AI projects
-- Understand model deployment
+- Build strong Machine Learning foundations
+- Master data analysis and preprocessing
+- Learn Deep Learning and NLP
+- Build end-to-end ML projects
+- Develop production-oriented engineering skills
 - Become placement-ready for ML Engineering roles
 
 ---
 
-# 🛠️ Topics Covered
+# 🛠️ Technologies & Libraries
 
-- Python for ML
+## Languages
+- Python
+
+## Data Analysis & ML
 - NumPy
 - Pandas
-- Data Visualization
-- Scikit-learn
-- PyTorch
-- NLP
-- Model Deployment
+- Matplotlib
+- Seaborn
+- Scikit-learn (upcoming)
+- PyTorch (upcoming)
+
+## Tools
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
 
 ---
 
-# 📅 Progress Tracker
+# 📚 Topics Covered
 
-## ✅ Day 1
-Topics Covered:
-- NumPy Basics
-- Arrays & Indexing
+## Python for Machine Learning
+- Data structures
+- Functions
+- Logical operations
+
+## NumPy
+- Arrays
 - Vectorized Operations
 - Boolean Masking
-- 2D Arrays
-- Shape & Axis
-- Aggregation Functions
+- Aggregation
+- Multidimensional Arrays
 - Random Data Generation
-- Data Visualization using Matplotlib
 
-Projects/Exercises:
-- Student Performance Analysis
-- Sales Data Analysis
-- Histogram & Bar Graph Visualization
+## Pandas
+- DataFrames
+- Filtering & Sorting
+- Feature Engineering
+- Missing Value Handling
+- CSV Operations
+- GroupBy
+- Correlation Analysis
+
+## Data Visualization
+- Bar Charts
+- Histograms
+- Heatmaps
+
+## Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Pattern Analysis
+- Correlation Analysis
+- Analytical Insights
 
 ---
 
@@ -56,24 +82,60 @@ ML-Learning-Journey/
 ├── Day-01/
 │   ├── numpy_basics.ipynb
 │   ├── student_performance_analysis.ipynb
-│   ├── notes.md
+│   └── notes.md
+│
+├── Day-02/
+│   ├── pandas_basics.ipynb
+│   └── notes.md
 │
 └── README.md
 ```
 
 ---
 
-# 📈 Learning Philosophy
+# 📈 Current Progress
 
-Learn → Implement → Analyze → Push to GitHub
+✅ NumPy Foundations  
+✅ Data Analysis using Pandas  
+✅ Exploratory Data Analysis (EDA)  
+✅ Data Visualization  
+✅ Missing Value Handling  
+✅ CSV Processing  
 
-This repository focuses on practical understanding instead of passive tutorial watching.
+---
+
+# 💡 Learning Philosophy
+
+Learn → Implement → Analyze → Build → Push to GitHub
+
+This repository focuses on practical understanding and engineering workflow instead of passive tutorial watching.
 
 ---
 
 # 🎯 Current Focus
 
-Building strong foundations in:
-- NumPy
 - Data Analysis
-- ML Engineering Concepts
+- Exploratory Data Analysis
+- ML Foundations
+- Feature Engineering
+- Data Preprocessing
+
+---
+
+# 🚀 Upcoming Topics
+
+- Statistics for ML
+- Scikit-learn
+- Machine Learning Algorithms
+- Model Evaluation
+- Feature Scaling
+- Deep Learning with PyTorch
+- NLP
+- FastAPI Deployment
+- End-to-End ML Projects
+
+---
+
+# 📌 Note
+
+This repository is continuously updated as part of my ML Engineering journey through hands-on implementation and real-world problem solving.
