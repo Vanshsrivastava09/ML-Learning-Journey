@@ -1,91 +1,107 @@
 # ML Learning Journey 🚀
 
-This repository documents my journey toward becoming an ML Engineer through practical implementation, data analysis, machine learning workflows, and real-world projects.
-
-The goal of this repository is not just learning theory, but building practical engineering skills through coding, experimentation, visualization, preprocessing, and project development.
+A structured public repository documenting my journey toward becoming a Machine Learning Engineer through hands-on implementation, data analysis, statistics, machine learning, deep learning, and real-world projects.
 
 ---
 
-# 🎯 Goals
+## 🎯 Goal
 
-- Build strong Machine Learning foundations
-- Master data analysis and preprocessing
-- Learn Deep Learning and NLP
-- Build end-to-end ML projects
-- Develop production-oriented engineering skills
-- Become placement-ready for ML Engineering roles
+My objective is to build strong foundations in:
 
----
+* Python
+* Data Analysis
+* Statistics
+* Machine Learning
+* Deep Learning
+* NLP
+* Model Deployment
 
-# 🛠️ Technologies & Libraries
-
-## Languages
-- Python
-
-## Data Analysis & ML
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn (upcoming)
-- PyTorch (upcoming)
-
-## Tools
-- Jupyter Notebook
-- Git & GitHub
-- VS Code
+while maintaining consistent proof of work through GitHub.
 
 ---
 
-# 📚 Topics Covered
+## 🛠️ Tech Stack
 
-## Python for Machine Learning
-- Data structures
-- Functions
-- Logical operations
+### Programming
 
-## NumPy
-- Arrays
-- Vectorized Operations
-- Boolean Masking
-- Aggregation
-- Multidimensional Arrays
-- Random Data Generation
+* Python
 
-## Pandas
-- DataFrames
-- Filtering & Sorting
-- Feature Engineering
-- Missing Value Handling
-- CSV Operations
-- GroupBy
-- Correlation Analysis
+### Data Analysis
 
-## Data Visualization
-- Bar Charts
-- Histograms
-- Heatmaps
+* NumPy
+* Pandas
 
-## Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Pattern Analysis
-- Correlation Analysis
-- Analytical Insights
+### Visualization
+
+* Matplotlib
+* Seaborn
+
+### Machine Learning
+
+* Scikit-Learn (Upcoming)
+
+### Deep Learning
+
+* PyTorch (Upcoming)
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* VS Code
 
 ---
 
-# 🚀 Repository Structure
+## 📚 Learning Roadmap
 
-```bash
+### Foundations
+
+* [x] Python Fundamentals
+* [x] NumPy Basics
+* [x] Pandas Basics
+* [x] Exploratory Data Analysis
+* [x] Data Visualization
+* [x] Statistics Fundamentals
+
+### Machine Learning
+
+* [ ] Data Preprocessing
+* [ ] Feature Engineering
+* [ ] Regression
+* [ ] Classification
+* [ ] Model Evaluation
+
+### Deep Learning
+
+* [ ] Neural Networks
+* [ ] PyTorch
+* [ ] Computer Vision
+* [ ] NLP
+
+### Deployment
+
+* [ ] Streamlit
+* [ ] FastAPI
+* [ ] Model Deployment
+
+---
+
+## 📁 Repository Structure
+
+```text
 ML-Learning-Journey/
-│
+
 ├── Day-01/
 │   ├── numpy_basics.ipynb
-│   ├── student_performance_analysis.ipynb
 │   └── notes.md
 │
 ├── Day-02/
 │   ├── pandas_basics.ipynb
+│   └── notes.md
+│
+├── Day-03/
+│   ├── statistics_basics.ipynb
 │   └── notes.md
 │
 └── README.md
@@ -93,49 +109,66 @@ ML-Learning-Journey/
 
 ---
 
-# 📈 Current Progress
+## 🚀 Progress
 
-✅ NumPy Foundations  
-✅ Data Analysis using Pandas  
-✅ Exploratory Data Analysis (EDA)  
-✅ Data Visualization  
-✅ Missing Value Handling  
-✅ CSV Processing  
+### Day 1
 
----
+* NumPy Fundamentals
+* Arrays
+* Indexing
+* Boolean Masking
+* Aggregation
+* Data Analysis Exercises
 
-# 💡 Learning Philosophy
+### Day 2
 
-Learn → Implement → Analyze → Build → Push to GitHub
+* Pandas
+* DataFrames
+* Filtering
+* GroupBy
+* Missing Values
+* CSV Handling
+* EDA
 
-This repository focuses on practical understanding and engineering workflow instead of passive tutorial watching.
+### Day 3
 
----
-
-# 🎯 Current Focus
-
-- Data Analysis
-- Exploratory Data Analysis
-- ML Foundations
-- Feature Engineering
-- Data Preprocessing
-
----
-
-# 🚀 Upcoming Topics
-
-- Statistics for ML
-- Scikit-learn
-- Machine Learning Algorithms
-- Model Evaluation
-- Feature Scaling
-- Deep Learning with PyTorch
-- NLP
-- FastAPI Deployment
-- End-to-End ML Projects
+* Mean
+* Median
+* Mode
+* Variance
+* Standard Deviation
+* Histograms
+* Boxplots
+* IQR
+* Outlier Detection
 
 ---
 
-# 📌 Note
+## 💡 Learning Philosophy
 
-This repository is continuously updated as part of my ML Engineering journey through hands-on implementation and real-world problem solving.
+Learn → Implement → Document → Push → Repeat
+
+Every topic is accompanied by:
+
+* Code
+* Notes
+* Practice Exercises
+* GitHub Documentation
+
+---
+
+## 📈 Current Focus
+
+* Statistics for Machine Learning
+* Probability
+* Normal Distribution
+* Z-Score
+* Machine Learning Foundations
+
+---
+
+## 📌 Note
+
+This repository represents real daily progress and practical implementation rather than course completion certificates.
+
+The goal is to become a strong Machine Learning Engineer through consistency, projects, and problem-solving.
