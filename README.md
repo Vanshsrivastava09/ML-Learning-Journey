@@ -1,174 +1,149 @@
 # ML Learning Journey 🚀
 
-A structured public repository documenting my journey toward becoming a Machine Learning Engineer through hands-on implementation, data analysis, statistics, machine learning, deep learning, and real-world projects.
+A public learning repository documenting my journey from Python and Data Analysis to Machine Learning, Data Science, and Interview Preparation.
 
----
+## Goal
 
-## 🎯 Goal
+Become industry-ready in:
 
-My objective is to build strong foundations in:
-
-* Python
-* Data Analysis
-* Statistics
 * Machine Learning
-* Deep Learning
-* NLP
-* Model Deployment
+* Data Science
+* Data Analytics
+* Problem Solving
+* Technical Interviews
 
-while maintaining consistent proof of work through GitHub.
+while building a strong public proof-of-work portfolio on GitHub.
 
 ---
 
-## 🛠️ Tech Stack
+## Learning Roadmap
 
-### Programming
-
-* Python
-
-### Data Analysis
+### Phase 1: Foundations
 
 * NumPy
 * Pandas
+* Data Cleaning
+* Data Analysis
+* Exploratory Data Analysis (EDA)
+* Statistics
 
-### Visualization
+### Phase 2: Machine Learning
 
-* Matplotlib
-* Seaborn
+* Supervised Learning
+* Regression
+* Classification
+* Feature Engineering
+* Model Evaluation
+* Real-world Datasets
 
-### Machine Learning
+### Phase 3: Advanced ML
 
-* Scikit-Learn (Upcoming)
+* Ensemble Models
+* Hyperparameter Tuning
+* Model Deployment
+* End-to-End Projects
 
-### Deep Learning
+### Phase 4: Interview Preparation
 
-* PyTorch (Upcoming)
-
-### Tools
-
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
-
----
-
-## 📚 Learning Roadmap
-
-### Foundations
-
-* [x] Python Fundamentals
-* [x] NumPy Basics
-* [x] Pandas Basics
-* [x] Exploratory Data Analysis
-* [x] Data Visualization
-* [x] Statistics Fundamentals
-
-### Machine Learning
-
-* [ ] Data Preprocessing
-* [ ] Feature Engineering
-* [ ] Regression
-* [ ] Classification
-* [ ] Model Evaluation
-
-### Deep Learning
-
-* [ ] Neural Networks
-* [ ] PyTorch
-* [ ] Computer Vision
-* [ ] NLP
-
-### Deployment
-
-* [ ] Streamlit
-* [ ] FastAPI
-* [ ] Model Deployment
+* Data Structures & Algorithms
+* SQL
+* Aptitude
+* Machine Learning Interviews
+* Data Analytics Interviews
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ML-Learning-Journey/
-
+│
 ├── Day-01/
-│   ├── numpy_basics.ipynb
-│   └── notes.md
-│
 ├── Day-02/
-│   ├── pandas_basics.ipynb
-│   └── notes.md
-│
 ├── Day-03/
-│   ├── statistics_basics.ipynb
-│   └── notes.md
+├── Day-04/
+├── Day-05/
 │
 └── README.md
 ```
 
+Each day contains:
+
+* Jupyter Notebooks
+* Notes
+* Exercises
+* Challenges
+* Dataset Analysis
+
 ---
 
-## 🚀 Progress
+## Topics Completed
 
-### Day 1
+### Python & Data Analysis
 
-* NumPy Fundamentals
-* Arrays
-* Indexing
-* Boolean Masking
-* Aggregation
-* Data Analysis Exercises
+* NumPy Basics
+* Arrays and Operations
+* Statistical Functions
+* Pandas DataFrames
+* Data Cleaning
+* Missing Value Handling
+* CSV Operations
+* GroupBy Operations
+* Exploratory Data Analysis
 
-### Day 2
-
-* Pandas
-* DataFrames
-* Filtering
-* GroupBy
-* Missing Values
-* CSV Handling
-* EDA
-
-### Day 3
+### Statistics
 
 * Mean
 * Median
-* Mode
 * Variance
 * Standard Deviation
-* Histograms
-* Boxplots
-* IQR
 * Outlier Detection
-
----
-
-## 💡 Learning Philosophy
-
-Learn → Implement → Document → Push → Repeat
-
-Every topic is accompanied by:
-
-* Code
-* Notes
-* Practice Exercises
-* GitHub Documentation
-
----
-
-## 📈 Current Focus
-
-* Statistics for Machine Learning
+* IQR
 * Probability
 * Normal Distribution
 * Z-Score
-* Machine Learning Foundations
+* Percentiles
+
+### Machine Learning
+
+* Features and Target Variables
+* Linear Regression
+* Train-Test Split
+* Model Prediction
+* Mean Absolute Error (MAE)
+
+### Problem Solving (DSA)
+
+* Two Sum
+* Best Time to Buy and Sell Stock
+* Contains Duplicate
 
 ---
 
-## 📌 Note
+## Current Progress
 
-This repository represents real daily progress and practical implementation rather than course completion certificates.
+Current Stage:
 
-The goal is to become a strong Machine Learning Engineer through consistency, projects, and problem-solving.
+Machine Learning Fundamentals
+
+Latest Achievement:
+
+Built and evaluated my first Machine Learning model using Linear Regression.
+
+---
+
+## Learning Philosophy
+
+* Learn concepts deeply.
+* Implement everything from scratch.
+* Maintain notes for revision.
+* Build publicly.
+* Stay consistent every day.
+
+Small daily progress compounds into large long-term results.
+
+---
+
+## Connect
+
+This repository is a record of my growth as I work towards becoming a Machine Learning Engineer.
