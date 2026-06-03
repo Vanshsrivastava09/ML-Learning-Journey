@@ -9,7 +9,7 @@ Become industry-ready in:
 * Machine Learning
 * Data Science
 * Data Analytics
-* Problem Solving
+* Problem Solving 
 * Technical Interviews
 
 while building a strong public proof-of-work portfolio on GitHub.
